@@ -10,6 +10,7 @@ I'm an aspiring software developer with a passion for building creative and impa
 
 ## 🏢 Atomic Growth Strategies (AGS)
 
+[Atomic Growth Strategies](https://atomicgrowthstrategies.co.uk)
 [Check out the AGS repo!](https://github.com/MattKay02/AGS)
 
 Atomic Growth Strategies is my personal business project aimed at helping small businesses grow through effective digital marketing and strategic solutions. This is a space where I combine my love for technology with my drive to make a difference for entrepreneurs.
