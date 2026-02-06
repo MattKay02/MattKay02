@@ -1,30 +1,30 @@
-# 👋 Hi, I’m Matt! (`@MattKay02`)
+# Hi, I'm Matt
 
-I'm an aspiring software developer with a passion for building creative and impactful digital experiences. For me, coding is the ultimate platform to bring ideas to life and help others grow.
+I'm a front-end engineer who builds modern, responsive web applications using whatever technology best fits the problem. I work across multiple frameworks and languages, adapting quickly to project requirements while maintaining clean, maintainable code.
 
-## 🚀 About Me
+## What I Do
 
-- 🌱 I’m currently focused on creating professional front end projects—stay tuned as I'll be uploading these soon!
-- 🧑‍💻 I love the process of building and creating, especially when it comes to digital solutions that empower others.
-- 💡 My passion for helping small businesses thrive led me to start **Atomic Growth Strategies (AGS)**, a project dedicated to small business growth and digital marketing.
+I specialize in front-end development with growing full-stack capabilities. My approach combines strong fundamentals with modern workflows—I leverage AI as a development tool to accelerate implementation and explore solutions efficiently, while maintaining deep understanding of the code I ship.
 
-## 🏢 Atomic Growth Strategies (AGS)
+**Technical Capabilities:**
+- JavaScript/TypeScript, React, Next.js
+- HTML5, CSS3, responsive design
+- Multiple framework experience and quick adaptation
+- RESTful API integration
+- Git/GitHub workflow
+- AI-augmented development practices
 
-[Atomic Growth Strategies](https://atomicgrowthstrategies.co.uk)
+## MGKCodes
 
-[Check out the AGS repo!](https://github.com/MattKay02/AGS)
+[MGKCodes](https://mgkcodes.com) | [Repository](https://github.com/MattKay02/MGKCodes)
 
-Atomic Growth Strategies is my personal business project aimed at helping small businesses grow through effective digital marketing and strategic solutions. This is a space where I combine my love for technology with my drive to make a difference for entrepreneurs.
+Through MGKCodes, I've delivered custom web solutions for clients—managing the full development lifecycle from initial consultation through deployment. This work has taught me to communicate technical concepts clearly, scope projects realistically, and build production-ready applications that meet real business needs.
 
-## 🌟 What’s Next
+## Selected Work
 
-- 📂 More front end projects are on the way—watch this space!
-- 🌐 My personal website is coming soon.
+My repositories include client projects and personal work that demonstrate my range across different technologies and problem domains. Each project reflects my commitment to writing quality code and delivering functional, user-focused solutions.
 
-## 📫 Connect with Me
+## Connect
 
-- LinkedIn and website links coming soon!
-
----
-
-Thanks for visiting my profile! If you're passionate about building, growing, or collaborating, feel free to connect.
+[LinkedIn](https://www.linkedin.com/in/matthew-kay-)  
+mgkcodes.com
