@@ -4,7 +4,7 @@ I'm a front-end engineer who builds modern, responsive web applications using wh
 
 ## What I Do
 
-I specialize in front-end development with growing full-stack capabilities. My approach combines strong fundamentals with modern workflows—I leverage AI as a development tool to accelerate implementation and explore solutions efficiently, while maintaining deep understanding of the code I ship.
+I specialize in front-end development with growing full-stack capabilities. My approach combines strong fundamentals with modern workflows. I leverage AI as a development tool to accelerate implementation and explore solutions efficiently, while maintaining deep understanding of the code I ship.
 
 **Technical Capabilities:**
 - JavaScript/TypeScript, React, Next.js
