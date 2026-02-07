@@ -22,7 +22,7 @@ Through MGKCodes, I've delivered custom web solutions for clients, managing the 
 
 ## Selected Work
 
-My repositories include client projects and personal work that demonstrate my range across different technologies and problem domains. Each project reflects my commitment to writing quality code and delivering functional, user-focused solutions.
+My repositories include client projects and personal work that demonstrate my range across different technologies and problem domains. Each project reflects my commitment to quality code and delivering functional, user-focused solutions.
 
 ## Connect
 
