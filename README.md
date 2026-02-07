@@ -18,7 +18,7 @@ I specialize in front-end development with growing full-stack capabilities. My a
 
 [MGKCodes](https://mgkcodes.com) | [Repository](https://github.com/MattKay02/MGKCodes)
 
-Through MGKCodes, I've delivered custom web solutions for clients—managing the full development lifecycle from initial consultation through deployment. This work has taught me to communicate technical concepts clearly, scope projects realistically, and build production-ready applications that meet real business needs.
+Through MGKCodes, I've delivered custom web solutions for clients, managing the full development lifecycle from initial consultation through deployment. This work has taught me to communicate technical concepts clearly, scope projects realistically, and build production-ready applications that meet real business needs.
 
 ## Selected Work
 
