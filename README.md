@@ -16,7 +16,7 @@ Development studio delivering custom software solutions for clients. Full projec
 
 ## Projects
 
-Additional projects and experiments are available in my repositories. Reach out if you want to discuss any of the work.
+Additional projects, course work and experiments are available in my repositories. Reach out if you want to discuss any of the work.
 
 ## Tech Stack
 
