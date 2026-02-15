@@ -1,6 +1,6 @@
 # Matt Kay
 
-Software developer building modern frontend solutions. I focus on clean code, user experience, and shipping functional products.
+Software developer building modern software solutions. I focus on clean code, user experience, and shipping functional products.
 
 ## Work
 
@@ -12,7 +12,7 @@ Personal portfolio showcasing my work and technical capabilities. Built with a b
 **MGKCodes**  
 [mgkcodes.com](https://mgkcodes.com) | [Repository](https://github.com/MattKay02/MGKCodes)
 
-Development studio delivering custom frontend solutions for clients. Full project lifecycle from consultation through deployment, with focus on production-ready applications that solve real business problems.
+Development studio delivering custom software solutions for clients. Full project lifecycle from consultation through deployment, with focus on production-ready applications that solve real business problems.
 
 ## Projects
 
