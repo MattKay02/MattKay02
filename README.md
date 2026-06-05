@@ -1,27 +1,18 @@
 # Matt Kay
 
-Software developer building modern software solutions. I focus on clean code, user experience, and shipping functional products.
+Software engineer. I build and ship products end to end through **MGKCodes**, my independent software studio. Design, engineering, release, all in-house.
 
-## Work
+### MGKCodes · [mgkcodes.com](https://mgkcodes.com)
 
-**Portfolio**  
-[mattkay02.github.io](https://mattkay02.github.io) | [Repository](https://github.com/MattKay02/MattKay02.github.io)
+The studio I run and actively build with. Products live:
 
-Personal portfolio showcasing my work and technical capabilities. 
+- **frunt** · a preparation platform for restaurant teams. Web manager dashboard plus a native staff app. [frunthospitality.com](https://frunthospitality.com)
+- **Liftio** · a native iOS training tracker, live on the App Store. [getliftio.com](https://www.getliftio.com/)
 
-**MGKCodes**  
-[mgkcodes.com](https://mgkcodes.com) | [Repository](https://github.com/MattKay02/MGKCodes)
+### Tech
 
-Development studio delivering custom software solutions for clients. Full project lifecycle from consultation through deployment, with focus on production-ready applications that solve real business problems.
+TypeScript · Next.js · React · React Native / Expo · Flutter / Dart · Node.js · Supabase · PostgreSQL · Tailwind CSS · Vercel
 
-## Projects
+### Elsewhere
 
-Additional projects, course work and experiments are available in my repositories.
-
-## Tech Stack
-
-JavaScript • TypeScript • React • Next.js • HTML5 • CSS3 • Tailwind CSS • Supabase • PostgreSQL • Node.js • Git • Vercel
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/matthew-kay-)
+[Portfolio](https://mattkay02.github.io) · [LinkedIn](https://www.linkedin.com/in/matthew-kay-/) · [X](https://x.com/mattykay2002)
