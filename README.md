@@ -17,4 +17,4 @@ TypeScript · Next.js · React · Flutter / Dart · React Native / Expo · Node.
 
 ### Elsewhere
 
-[Portfolio](https://mattkay02.github.io) · [MGKCodes](https://mgkcodes.com) · [LinkedIn](https://www.linkedin.com/in/matthew-kay-/) · [X](https://x.com/mattykay2002)
+[Portfolio](https://matthewkay.dev) · [MGKCodes](https://mgkcodes.com) · [LinkedIn](https://www.linkedin.com/in/matthew-kay-/) · [X](https://x.com/mattykay2002)
