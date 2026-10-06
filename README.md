@@ -1,6 +1,6 @@
 # Matthew Kay
 
-Software engineer. I design and build products end to end and ship them through **MGKCodes**, my independent software studio: design, engineering and release, all in-house.
+Product engineer. I design and build products end to end and ship them through **MGKCodes**, my independent software studio: design, engineering and release, all in-house.
 
 ### What I'm building
 
