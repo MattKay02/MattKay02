@@ -5,7 +5,7 @@ Product engineer. I design and build products end to end and ship them through *
 ### What I'm building
 
 - **frunt** · turns a restaurant's own documents into staff training and answers that cite their source. A manager web app, plus a staff app on the App Store and Google Play. [frunthospitality.com](https://frunthospitality.com)
-- **MGKFitness** · Run and Lift, two fitness apps on one account that know about each other, so the coach plans around your whole week. Lift is the Flutter rebuild of Liftio, my first App Store app. [mgkfitness.mgkcodes.com](https://mgkfitness.mgkcodes.com)
+- **MGKFitness** · Run, a running tracker with an AI training coach, and Lift, a strength log with a coach of its own, on one account and one backend. Lift is the Flutter rebuild of Liftio, my first App Store app. [mgkfitness.mgkcodes.com](https://mgkfitness.mgkcodes.com)
 
 ### How I work
 
@@ -17,4 +17,4 @@ TypeScript · Next.js · React · Flutter / Dart · React Native / Expo · Node.
 
 ### Elsewhere
 
-[Portfolio](https://matthewkay.dev) · [MGKCodes](https://mgkcodes.com) · [LinkedIn](https://www.linkedin.com/in/matthew-kay-/) · [X](https://x.com/mattykay2002)
+[Portfolio](https://matthewkay.dev) · [MGKCodes](https://mgkcodes.com) · [LinkedIn](https://www.linkedin.com/in/matthew-kay-/) · [X](https://x.com/matthewkaydev)
